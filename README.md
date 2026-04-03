@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./matrix_letters_colorful.gif" />
+  <img src="./wild_matrix.gif" />
 </p>
